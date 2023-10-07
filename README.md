@@ -30,6 +30,6 @@
 
 ## :rocket: My stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenaliar&layout=compact&theme=vision-friendly-dark&hide=javascript)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenaliar&layout=compact&theme=vision-friendly-dark&hide=javascript)
 
-<!<img src="https://github-readme-stats.vercel.app//api?username=elenaliar&show_icons=true&theme=vision-friendly-dark&count_private=true&hide=issues,prs"/>>
+
